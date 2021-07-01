@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "hello-world-gatsby",
+    siteUrl: "https://helloworldgatsbymaster49625.gatsbyjs.io/"
   },
   plugins: [
     "gatsby-plugin-sass",
